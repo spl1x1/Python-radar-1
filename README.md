@@ -9,11 +9,11 @@
 
 ## Projektové milníky
 
-- [ ] Milník 1 (do 31. 10. 2026): Zajištění hardwaru
+- [x] Milník 1 (do 31. 10. 2026): Zajištění hardwaru
   * Pořízení radarových modulů a nezbytné propojovací kabeláže.
   * *Kritéria splnění:* Hardware je fyzicky dostupný a připravený k prvnímu zapojení.
 
-- [ ] Milník 2 (do 30. 11. 2026): Ověření komunikace a datového toku
+- [x] Milník 2 (do 30. 11. 2026): Ověření komunikace a datového toku
   * Testování komunikačních protokolů a schopností detekce v reálném prostředí přes zkušební skript v Pythonu.
   * *Kritéria splnění:* Úspěšné navázání stabilní komunikace s modulem, ověření funkčnosti detekce překážek.
 
